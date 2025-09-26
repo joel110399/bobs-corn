@@ -85,7 +85,7 @@ export default function Home({ onGoBuy, successCount }: Props) {
                   letterSpacing: 0.4,
                 }}
               >
-                Bob’s Corn // Nexus
+                Bob’s Corn
               </Typography>
               <Stack
                 direction="row"

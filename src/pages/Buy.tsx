@@ -136,7 +136,7 @@ export default function Buy({ onSuccess, onBack }: Props) {
             <ArrowBackIosNewRounded fontSize="small" />
           </IconButton>
           <Typography variant="h6" sx={{ fontWeight: 900, letterSpacing: 0.3 }}>
-            Comprar // Neon Hub
+            Comprar
           </Typography>
           <Box flex={1} />
           <Stack
